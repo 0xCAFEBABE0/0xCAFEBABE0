@@ -2,14 +2,14 @@
 <br />
 <div align="center">
 <span>  </span>
-<a title="github" target="_blank" href="https://github.com/oongrider"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Doongrider&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>&nbsp; &nbsp; &nbsp; &nbsp;
+<a title="github" target="_blank" href="https://github.com/ovongrider"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Doongrider&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>&nbsp; &nbsp; &nbsp; &nbsp;
 <a title="zhihu" target="_blank" href="https://www.zhihu.com/people/ooooor-26"><img src="https://img.shields.io/static/v1?label=zhihu&message=%E7%9F%A5%E4%B9%8E&color=blue"></a>&nbsp; &nbsp; &nbsp; &nbsp;
 <span>  </span>
 </div>
 <br />
 <div align="center">
 <span>  </span>
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=oongrider&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oongrider&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ovongrider&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovongrider&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 <span>  </span>
 </div>
 
