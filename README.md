@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E2%9C%A8Rage%2Crage+against+the+dying+of+the+light.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=460&lines=%E2%9C%A8Rage%2Crage+against+the+dying+of+the+light.)](https://git.io/typing-svg)
 
 <div align="center">
 <span>  </span>
