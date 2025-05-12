@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2200&color=3fc1c9&vCenter=true&font=Fira+Code&pause=1000&width=560&lines=%E2%9C%A8Rage%2Crage+against+the+dying+of+the+light.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2200&color=3fc1c9&vCenter=true&font=Fira+Code&pause=1000&width=660&lines=%E2%9C%A8Rage%2Crage+against+the+dying+of+the+light.)](https://git.io/typing-svg)
 
 
 
