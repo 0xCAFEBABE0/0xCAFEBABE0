@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&duration=4200&color=3fc1c9&vCenter=true&width=200&height=40&lines=✨Rage,rage+against+the+dying+of+the+light.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4200&color=3fc1c9&vCenter=true&width=200&height=40&lines=✨Rage+rage+against+the+dying+of+the+light.)](https://git.io/typing-svg)
 
 <div align="center">
 <span>  </span>
