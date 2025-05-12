@@ -1,4 +1,5 @@
-## ✨Rage,rage against the dying of the light.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2200&color=3fc1c9&vCenter=true&width=200&height=40&lines=✨Rage,rage+against+the+dying+of+the+light.)](https://git.io/typing-svg)
+
 <div align="center">
 <span>  </span>
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=0xCAFEBABE0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCAFEBABE0&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
