@@ -1,7 +1,8 @@
 ### Hey there 👋 I'm 0xCAFEBABE0
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=0xCAFEBABE0&show_icons=true&icon_color=58a6ff&text_color=333333&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&include_all_commits=true&hide_title=true&hide_border=true" />
-## About Me
+
+### About Me
 
 I'm a backend architect specializing in robust and scalable system design with extensive experience across multiple domains:
 - **Enterprise Architecture**: Design and implementation of high-throughput financial systems with emphasis on security, compliance, and reliability
@@ -10,7 +11,7 @@ I'm a backend architect specializing in robust and scalable system design with e
 
 My work bridges traditional enterprise systems with cutting-edge AI technologies, creating solutions that are both production-ready and future-proof.
 
-## Current Focus
+### Current Focus
 
 🔭 I'm currently working on:
 - Implementing real-time speech processing pipelines using state-of-the-art LLMs
@@ -19,7 +20,7 @@ My work bridges traditional enterprise systems with cutting-edge AI technologies
 
 💡 My expertise combines deep technical knowledge of distributed systems with practical AI implementation experience, allowing me to design architectures that effectively handle both computational demands and business requirements.
 
-##🤝🏻 &nbsp;Let's Connect
+### 🤝🏻&nbsp;Let's Connect
 
 I'm always interested in discussing innovative approaches to system design or collaborating on projects that push the boundaries of what's possible with AI and enterprise architecture.
 
