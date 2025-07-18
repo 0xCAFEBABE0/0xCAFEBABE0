@@ -9,9 +9,7 @@ I'm a backend architect specializing in robust and scalable system design with e
 - **E-commerce Infrastructure**: Building resilient microservice architectures supporting millions of transactions and seamless user experiences
 - **AI Integration Specialist**: Currently focused on leveraging Large Language Models (LLMs) for advanced speech processing and computer vision applications
 
-My work bridges traditional enterprise systems with cutting-edge AI technologies, creating solutions that are both production-ready and future-proof.
-
-### Current Focus
+### &nbsp;Current Focus
 
 🔭 I'm currently working on:
 - Implementing real-time speech processing pipelines using state-of-the-art LLMs
